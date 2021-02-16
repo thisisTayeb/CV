@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+html{
+    background-color: #ededed;
+}
+#social{
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+#bio{
+    margin-top:15%;
+    padding-right: 10%;
+}
+footer{
+    margin-bottom: 5%;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+}
+i.fas, i.fab{
+    border:2px;
+    color: black;
+    font-size: xx-large;
+
+
+}
+#p404{
+    margin: 25%;
+    padding-left:15%
+
+}
